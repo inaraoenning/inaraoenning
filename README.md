@@ -1,27 +1,27 @@
 # Hi there 👋 I'm Inara 
 
-💻 Junior Full Stack Developer  
-🚀 Passionate about building scalable applications and solving real-world problems  
+💻 Stack Developer  
+🚀 Passionate about solving problems  
 🏆 1st Place Winner — Tech Start Startup Weekend Hackathon  
 
 ---
 
 ## 👩‍💻 About Me
 
-- Junior Developer working with **Angular, VB.NET, C#, SQL, and React Native**
-- Strong foundation in **REST APIs, Systems Analysis, and Object-Oriented Programming**
+- Developer working with **Angular, Native, SQL, and .Net APIs**
+- Foundation in **REST APIs, Systems Analysis, and Object-Oriented Programming**
 - Fluent in English 🌎
-- Constant learner focused on becoming a high-impact software engineer
+- Constant learner 
 
 ---
 
 ## 🛠️ Tech Stack
 
 **Frontend:** Angular, JavaScript  
-**Backend:** C#, Node.js  
+**Backend:** C#, JAVA, KOTLIN, Node.js  
 **Mobile:** React Native  
 **Database:** Microsoft SQL Server  
-**Tools:** Git, GitHub, Postman, VS Code  
+**Tools:** Git, GitHub, Postman, VS Code , IntelliJ, Visual Studio 
 
 ---
 
@@ -40,9 +40,8 @@ Collaborated with a multidisciplinary team to design and validate a startup in 5
 
 ## 📈 What I'm Focused On Now
 
-- Improving my Full Stack development skills  
-- Building production-level projects  
-- Deepening my knowledge of software architecture  
+- Improving my backend development skills  
+- Clean Architecture    
 
 ---
 
