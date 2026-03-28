@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Inara 
 
-💻 Stack Developer  
+💻 FullStack Developer  
 🚀 Passionate about solving problems  
 🏆 1st Place Winner — Tech Start Startup Weekend Hackathon  
 
